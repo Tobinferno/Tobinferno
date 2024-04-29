@@ -3,7 +3,7 @@
 <h3 align="center">A game developer and a physicist ☄, a master of learning and a student of mastering📚.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1710534234~exp=1710534834~hmac=5ed728abae314b618348e827fd4919cbfb72ccf6bc8b572a0676096b53eba4f9">
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Game design**
 
 - 👨‍💻 All of my projects are available at [https://joulesp.itch.io/](https://joulesp.itch.io/)
 
